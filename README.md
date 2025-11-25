@@ -181,7 +181,7 @@ It is well-suited for academic projects, demonstrations, and small-scale control
 ✅ Ready for:
 - GitHub upload  
 - College project submission  
-- Documentation use  
+- Documentation use 
 
 ---
 
