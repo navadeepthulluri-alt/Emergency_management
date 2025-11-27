@@ -154,13 +154,43 @@ emergency.exe
 
 *(Replace with your own program screenshots)*
 
-1️⃣ Main Menu  
-2️⃣ Add Emergency  
-3️⃣ View Emergencies  
-4️⃣ Search Emergency  
-5️⃣ Update Emergency  
-6️⃣ Delete Emergency  
-7️⃣ Exit  
+1️⃣ Main Menu 
+<img width="358" height="234" alt="Screenshot 2025-11-27 204034" src="https://github.com/user-attachments/assets/34ae1c00-861e-4bcb-9d51-56f1c5188008" />
+
+
+
+
+2️⃣ Add Emergency 
+<img width="876" height="477" alt="Screenshot 2025-11-25 210632" src="https://github.com/user-attachments/assets/fd3020b2-2b7a-43f5-9b71-c80e75a9bb5a" />
+
+
+
+3️⃣ View Emergencies
+<img width="1430" height="381" alt="Screenshot 2025-11-25 210656" src="https://github.com/user-attachments/assets/8f34c1b6-88c6-47fd-aeae-c3210d85b154" />
+
+
+4️⃣ Search Emergency 
+<img width="1121" height="513" alt="Screenshot 2025-11-25 210713" src="https://github.com/user-attachments/assets/1d80b810-d0e2-464b-abc2-eb13bb271b1b" />
+
+
+5️⃣ Update Emergency 
+<img width="501" height="327" alt="Screenshot 2025-11-25 210911" src="https://github.com/user-attachments/assets/260a2b34-0df6-47c7-8361-51b7b07020ba" />
+
+
+
+
+6️⃣ Delete Emergency 
+<img width="579" height="309" alt="Screenshot 2025-11-25 210921" src="https://github.com/user-attachments/assets/431eb231-2422-48d5-912e-fef4c297f55c" />
+
+
+
+
+
+
+
+7️⃣ Exit 
+<img width="431" height="282" alt="Screenshot 2025-11-25 210941" src="https://github.com/user-attachments/assets/688d00d4-9099-4de5-959e-04bb3bee8b3e" />
+
 
 ---
 
